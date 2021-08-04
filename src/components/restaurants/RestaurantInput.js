@@ -4,7 +4,14 @@ class RestaurantInput extends Component {
   render() {
     return (
       <div>
-        Restaurant Input
+        <form>
+
+          <input 
+            type="text" 
+            name="" 
+            id="" />
+          <input type="submit"/>
+        </form>
       </div>
     );
   }
